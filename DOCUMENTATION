@@ -1,0 +1,21 @@
+Configuration Audit Checklist
+Application Name:
+Audit Date:	
+Project Name:		
+Audited By: 	
+Are the latest versions of source code/class files part of actual delivery made for delivered work request?		
+Is release note prepared and sent along with the deliverable? Verify all appropriate details are filled and are correct.		
+Is the Configuration Management plan reviewed and approved by relevant stakeholders?		
+Are all CI's & Non-CI's identified in accordance of project scope, receivables and deliverables?		
+Are client machine access rights sheet maintained properly and is up-to-date? Verify against current project resource list.		
+Are documents stored in their intended folders in RTC Source control?		
+Are revision history maintained for all changes made to the documents in RTC? Verify proper check-in comments are provided.		
+Are relevant work-products baselined in RTC Source Control?		
+Are the latest version of VDD’s reviewed and approved? 		
+Are the checksum files and drop area created?		
+If the stakeholders are notified about the release and total downtime?		
+Does re-baseline/revision of baseline done as per the approach defined in Configuration Management Plan?		
+Are updated artifacts checked-in back to the configuration library, once any defect(s) are fixed? Check the artifact, version, check-in date and comments appropriately.		
+Are backup/ restoration activities carried out? Check and verify the logs.		
+
+
